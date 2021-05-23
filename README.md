@@ -26,12 +26,15 @@ DB erd
 구현기능 설명
 --------------
 > 웹캠 검색기능
+ 
 <img src="https://user-images.githubusercontent.com/63712295/119259493-8cecf880-bc09-11eb-92ed-10bf8b054775.png" width="500px" height="300px"></img>
 
     Tensorflow.js 라이브러리를 연결한 후 javascript코드를 이용하여 학습시켜둔 모델을 불러오고 웹캠을 연결해준다.
     이미지가 인식되면 모델을 통해 이미지를 인식하고 결과와 정확도를 javascript를 통해 오른편에 출력하고 정확도가 
     50% 이상인 라벨 중 가장 정확도가 높은 결과를 출력해주고 해당 clothesCode를 찾아Fitting 페이지로 전달해준다. 
+    
 > 이미지 검색기능  
+
 <img src="https://user-images.githubusercontent.com/63712295/119259496-8d858f00-bc09-11eb-91e9-97a5e9933aa7.png" width="500px" height="300px"></img>
 
 
