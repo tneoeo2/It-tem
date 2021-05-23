@@ -31,7 +31,7 @@ DB erd
  :bookmark:
  
 ''' javascript
-
+{
 let classifier;
 // 모델 불러오기
 const URL = "/resources/model/";
@@ -132,6 +132,7 @@ async function end() {
 
 	labelContainer.innerHTML = "";
 
+}
 }
 '''
  
