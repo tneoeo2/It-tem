@@ -29,7 +29,9 @@ DB erd
 
 -관련코드
  :bookmark:
+ 
 ''' javascript
+
 let classifier;
 // 모델 불러오기
 const URL = "/resources/model/";
