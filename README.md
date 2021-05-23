@@ -37,8 +37,8 @@ DB erd
     Jstl을 사용하여 Session에 회원정보가 담겨있는지 확인한다. 로그인되어있는 
     회원의 경우 fitting페이지로 연결하고 아닐 시 경고창을 띄우고 로그인 페이지로 연결해준다.
 
--관련코드
- :bookmark:
+ :bookmark:관련코드
+
  
 ``` javascript
 
