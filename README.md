@@ -14,9 +14,9 @@
 -----------
 - 운영체제 : Window OS
 - 개발도구 : Eclipse, Github
--DBMS : Oracle DB -sqldeveloper
--Server : Apache Tomcat 8.5
--Language : Java, HTML5, CSS3, Javascript, JQuery, SpringMVC, tensorflow.js
+- DBMS : Oracle DB -sqldeveloper
+- Server : Apache Tomcat 8.5
+- Language : Java, HTML5, CSS3, Javascript, JQuery, SpringMVC, tensorflow.js
 
 DB erd
 ----------
